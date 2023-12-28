@@ -1,11 +1,2 @@
 PROJECTS+= \
-	AVS \
-	AVS/avsscan \
-	ODS \
-	AVP1 \
-	AvpMgr \
-	AvLib \
-	L_llio \
-	HashContainer \
-	HashContainer/HCCOMPARE \
-	AVP3Info
+	BaseWork
